@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FF Turbo</string>
+    <string name="app_subtitle">FREE FIRE PERFORMANCE COCKPIT</string>
+    <string name="tab_boost">Boost</string>
+    <string name="tab_diagnostics">System</string>
+    <string name="tab_settings">Settings</string>
+    <string name="boost_button_label">REDUCE LAG &amp; BOOST FF</string>
+    <string name="boost_button_sub">5s Code Matrix Sweep • Auto-Launch</string>
+    <string name="boost_running_title">EXECUTING LAG REDUCTION PIPELINE</string>
+    <string name="boost_complete_title">100% BOOSTED — READY TO DROP</string>
+    <string name="launch_free_fire">LAUNCH FREE FIRE</string>
+    <string name="install_free_fire">GET FREE FIRE ON PLAY STORE</string>
+    <string name="run_boost_again">RE-RUN 5s BOOST</string>
+    <string name="back_to_cockpit">BACK TO COCKPIT</string>
+</resources>

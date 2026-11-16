@@ -1,0 +1,6 @@
+{
+  "name": "FF Turbo",
+  "description": "Red and black premium Free Fire lag reducer and game launcher with a 5-second edge-to-edge code boost sequence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
